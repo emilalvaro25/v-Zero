@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  background-color: #000;
+  color: #fff;
+  font-family: 'Google Sans', sans-serif, system-ui;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+}
+
+gdm-live-audio {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
